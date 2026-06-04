@@ -99,14 +99,14 @@ Sanity testing of ChatGPT and Excel workflows. `Python`
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sandeepkumar13M&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeepkumar13M&theme=tokyonight" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sandeepkumar13M&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeepkumar13M&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ### 📈 Quick Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepkumar13M&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sandeepkumar13M&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 ---
