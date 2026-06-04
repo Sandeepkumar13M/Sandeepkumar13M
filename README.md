@@ -55,18 +55,20 @@ I'm a passionate software developer from India 🇮🇳, love building things th
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeepkumar13M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sandeepkumar13M)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepkumar13M&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sandeepkumar13M)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sandeepkumar13M&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandeepkumar13M&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-### 🏆 GitHub Trophies
+### 📈 Quick Stats
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sandeepkumar13M&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Followers](https://img.shields.io/github/followers/Sandeepkumar13M?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=Followers)
+![Stars](https://img.shields.io/github/stars/Sandeepkumar13M?style=for-the-badge&color=FFD700&labelColor=0D1117&label=Stars)
+![Repos](https://img.shields.io/badge/Public_Repos-4-blue?style=for-the-badge&labelColor=0D1117)
+![Contributions](https://img.shields.io/badge/Contributions_(2025)-171%2B-brightgreen?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
