@@ -1,19 +1,19 @@
 # Hi there, I'm Sandeep Kumar Reddy 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+1%2B+Year+%40+Acuvity;Git+Power+User+%7C+Commits+%7C+PRs+%7C+Reviews;Python+%7C+Java+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=QA+Test+Engineer+I+%40+Acuvity;Regression+%7C+Automation+%7C+Infrastructure;Git+Power+User+%7C+Commits+%7C+PRs+%7C+Reviews;Python+%7C+Java+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate software developer from India 🇮🇳, currently working at **Acuvity** for over a year. I love building things that live on the internet, enjoy crafting clean, efficient code, and constantly level up my skills.
+I'm a passionate **QA Test Engineer** from India 🇮🇳, currently working at **Acuvity** for over a year. I specialize in regression testing, test automation, and infrastructure setup for running automated test suites.
 
-- 🏢 Working at **Acuvity** · Software Developer · *Jun 2025 – Present (1+ Year)*
-- 🔭 Currently working on **AI & Automation projects**
-- 🌱 Exploring **Spring Boot, REST APIs & Cloud technologies**
-- 💬 Ask me about **Python, Java, Backend Development, Git workflows**
+- 🏢 **QA Test Engineer I** at **Acuvity** · *Jun 2025 – Present (1+ Year)*
+- 🔭 Currently working on **Provider Regression & Infrastructure**
+- 🌱 Exploring **Test Automation, CI/CD, VM Environments**
+- 💬 Ask me about **Python, Java, QA Automation, Git workflows**
 - 📫 Reach me at **y.sandeepkumar2001@gmail.com**
 - ⚡ Fun fact: I've made **171+ contributions** in the last year with heavy Git activity!
 
@@ -21,18 +21,38 @@ I'm a passionate software developer from India 🇮🇳, currently working at **
 
 ## 🏢 Work Experience
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="80">
-      <img src="https://img.shields.io/badge/A-0A66C2?style=for-the-badge&logoColor=white" width="50" height="50"/>
+    <td align="center" width="120">
+      <img src="https://avatars.githubusercontent.com/acuvity" width="80" height="80" style="border-radius: 12px;" alt="Acuvity Logo"/>
+      <br/>
+      <strong><a href="https://github.com/acuvity">Acuvity Inc</a></strong>
     </td>
-    <td>
-      <strong>Software Developer</strong> · <a href="https://github.com/acuvity">Acuvity</a><br/>
-      📅 Jun 2025 – Present &nbsp;|&nbsp; 🗓️ <strong>1+ Year</strong><br/>
-      <em>Working on AI-powered services, test automation, code reviews, and CI/CD pipelines.</em>
+    <td align="left">
+      <h3>🧪 QA Test Engineer I</h3>
+      <p>📅 <strong>Jun 2025 – Present</strong> &nbsp;|&nbsp; 🗓️ <strong>1+ Year</strong> &nbsp;|&nbsp; 📍 <strong>Remote, India</strong></p>
+      <p><em>Provider Regression & Infrastructure — Ensuring quality across all providers through automated and manual testing.</em></p>
     </td>
   </tr>
 </table>
+
+</div>
+
+### 📋 Roles & Responsibilities
+
+<div align="center">
+
+| 🔧 | Responsibility |
+|:---:|:---|
+| 🤖 | **Daily Automated Regression Monitoring** — Running and monitoring automated regression suites every day, identifying and fixing failures promptly |
+| 🧪 | **Provider Coverage** — Ensuring all providers are covered daily via automated regression or coordinated manual testing by designated owners |
+| 🖥️ | **VM Environment Design** — Designing and maintaining virtual machine environments for reliable, scalable regression test execution |
+| ⚙️ | **Test Case Implementation** — Implementing new test cases for newly onboarded providers to expand coverage |
+| 🚀 | **Timely Fixes & Escalation** — Providing quick fixes for identified issues; escalating to senior developers when issues exceed scope |
+
+</div>
 
 ---
 
@@ -46,19 +66,9 @@ I'm a passionate software developer from India 🇮🇳, currently working at **
 ![Pull Requests](https://img.shields.io/badge/Pull_Requests-100%2B-blue?style=for-the-badge&logo=github&logoColor=white)
 ![Git Pulls](https://img.shields.io/badge/Git_Pulls-Daily-green?style=for-the-badge&logo=git&logoColor=white)
 ![Code Reviews](https://img.shields.io/badge/Code_Reviews_%26_Approvals-50%2B-purple?style=for-the-badge&logo=github&logoColor=white)
-![PR Merged](https://img.shields.io/badge/PRs_Merged-Active-brightgreen?style=for-the-badge&logo=gitmerge&logoColor=white)
+![PRs Merged](https://img.shields.io/badge/PRs_Merged-Active-brightgreen?style=for-the-badge&logo=gitmerge&logoColor=white)
 
 </div>
-
-### 💼 What I Do Daily @ Acuvity
-| Activity | Description |
-|----------|------------|
-| 📥 **Git Pull** | Syncing latest changes from team branches every day |
-| 📤 **Git Push** | Pushing commits after feature development & bug fixes |
-| ✅ **Commits** | Writing clean, descriptive commits for every task |
-| 🔀 **Pull Requests** | Raising PRs, requesting reviews, addressing feedback |
-| 🔍 **Code Reviews** | Reviewing teammates' code and giving approvals |
-| 🤖 **Test Automation** | Writing and maintaining automated test suites |
 
 ---
 
@@ -126,13 +136,12 @@ I'm a passionate software developer from India 🇮🇳, currently working at **
 
 ## 🌐 Connect with Me
 
-<div align="left">
-  <a href="mailto:y.sandeepkumar2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sandeepkumar13M">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.sandeepkumar2001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandeepkumar13M)
+[![Acuvity](https://img.shields.io/badge/Acuvity-0A66C2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==&logoColor=white)](https://github.com/acuvity)
+
 </div>
 
 ---
