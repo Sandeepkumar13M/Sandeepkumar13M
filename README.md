@@ -54,12 +54,20 @@ I'm a passionate software developer from India 🇮🇳, love building things th
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeepkumar13M&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeepkumar13M&theme=tokyonight&hide_border=true" width="48%" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeepkumar13M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sandeepkumar13M)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepkumar13M&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sandeepkumar13M)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sandeepkumar13M&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
+### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepkumar13M&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sandeepkumar13M&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
