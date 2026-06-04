@@ -92,9 +92,9 @@ I'm a passionate **QA Test Engineer** from India 🇮🇳, currently working at 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
+<!-- PROJECTS-START -->
 ### 🤖 [chatgpt-excel-sanity-test](https://github.com/Sandeepkumar13M/chatgpt-excel-sanity-test)
 > Automated sanity testing of Excel workflows using ChatGPT & Python. Demonstrates AI-powered test automation.
 
@@ -109,7 +109,14 @@ I'm a passionate **QA Test Engineer** from India 🇮🇳, currently working at 
 
 ---
 
-## 📊 GitHub Stats
+### 🎭 [Playwrite-CRX-pro](https://github.com/Sandeepkumar13M/Playwrite-CRX-pro)
+> A Chrome Extension that records browser interactions and automatically generates Playwright Python POM test scripts — no manual scripting required. Supports clicks, form inputs, navigation, iframes, and more.
+
+**Tech:** JavaScript · Chrome Extension (Manifest v3) · Playwright · Python POM
+
+<!-- PROJECTS-END -->
+
+GitHub Stats
 
 <div align="center">
 
