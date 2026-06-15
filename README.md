@@ -1,7 +1,7 @@
 # Hi there, I'm Sandeep Kumar Reddy 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=QA+Test+Engineer+I+%40+Acuvity;Regression+%7C+Automation+%7C+Infrastructure;React.js+%7C+Frontend+Development;Python+%7C+Java+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=QA+Test+Engineer+I+%40+Acuvity;Regression+%7C+Ahutomation+%7C+Infrastructure;React.js+%7C+Frontend+Development;Python+%7C+Java+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ---
@@ -93,21 +93,6 @@ Basic blog application with CRUD operations. `Java`
 Sanity testing of ChatGPT and Excel workflows. `Python`
 
 <!-- PROJECTS-END -->
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sandeepkumar13M&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeepkumar13M&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-### 📈 Quick Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sandeepkumar13M&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
-</div>
 
 ---
 
