@@ -1,7 +1,7 @@
 # Hi there, I'm Sandeep Kumar Reddy 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=QA+Test+Engineer+I+%40+Acuvity;Regression+%7C+Ahutomation+%7C+Infrast[...]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=QA+Test+Engineer+I+%40+Acuvity;Regression+%7C+Ahutomation+%7C+Infrast[...]" />
 </div>
 
 ---
@@ -34,18 +34,6 @@ I'm a passionate **QA Test Engineer** from India 🇮🇳, currently working at 
 <h3>🧪 QA Test Engineer I</h3>
 <p>📅 <strong>Jun 2025 – Present</strong> &nbsp;|&nbsp; 🗓️ <strong>1+ Year</strong> &nbsp;|&nbsp; 📍 <strong>Remote, India</strong></p>
 <p><em>Provider Regression & Infrastructure — Ensuring quality across all providers through automated and manual testing.</em></p>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://avatars.githubusercontent.com/proofpoint" width="80" height="80" style="border-radius: 12px;" alt="Proofpoint Logo"/>
-<br/>
-<strong><a href="https://www.proofpoint.com">Proofpoint</a></strong>
-</td>
-<td align="left">
-<h3>🔐 QA Engineer</h3>
-<p>📅 <strong>Previous Experience</strong> &nbsp;|&nbsp; 📍 <strong>Remote</strong></p>
-<p><em>Quality Assurance & Security Testing — Ensuring product reliability and security through comprehensive testing.</em></p>
 </td>
 </tr>
 </table>
