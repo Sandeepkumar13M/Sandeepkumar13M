@@ -1,14 +1,14 @@
 # Hi there, I'm Sandeep Kumar Reddy 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=QA+Test+Engineer+I+%40+Acuvity;Regression+%7C+Ahutomation+%7C+Infrastructure;React.js+%7C+Frontend+Development;Python+%7C+Java+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=QA+Test+Engineer+I+%40+Acuvity;Regression+%7C+Ahutomation+%7C+Infrast[...]
 </div>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **QA Test Engineer** from India 🇮🇳, currently working at **Acuvity** for over a year. I specialize in regression testing, test automation, and infrastructure setup for running automated test suites. I also have solid frontend development skills with **React.js**.
+I'm a passionate **QA Test Engineer** from India 🇮🇳, currently working at **Acuvity** for over a year. I specialize in regression testing, test automation, and infrastructure setup for runni[...]
 
 - 🏢 **QA Test Engineer I** at **Acuvity** · *Jun 2025 – Present (1+ Year)*
 - 🔭 Currently working on **Provider Regression & Infrastructure**
@@ -34,6 +34,18 @@ I'm a passionate **QA Test Engineer** from India 🇮🇳, currently working at 
 <h3>🧪 QA Test Engineer I</h3>
 <p>📅 <strong>Jun 2025 – Present</strong> &nbsp;|&nbsp; 🗓️ <strong>1+ Year</strong> &nbsp;|&nbsp; 📍 <strong>Remote, India</strong></p>
 <p><em>Provider Regression & Infrastructure — Ensuring quality across all providers through automated and manual testing.</em></p>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://avatars.githubusercontent.com/proofpoint" width="80" height="80" style="border-radius: 12px;" alt="Proofpoint Logo"/>
+<br/>
+<strong><a href="https://www.proofpoint.com">Proofpoint</a></strong>
+</td>
+<td align="left">
+<h3>🔐 QA Engineer</h3>
+<p>📅 <strong>Previous Experience</strong> &nbsp;|&nbsp; 📍 <strong>Remote</strong></p>
+<p><em>Quality Assurance & Security Testing — Ensuring product reliability and security through comprehensive testing.</em></p>
 </td>
 </tr>
 </table>
@@ -84,7 +96,7 @@ Active contributor with consistent commits, pull requests, code reviews & approv
 <!-- PROJECTS-START -->
 
 ### 🎬 [Playwrite-CRX-pro](https://github.com/Sandeepkumar13M/Playwrite-CRX-pro)
-A tool that records browser interactions and automatically generates Playwright test scripts. Capture clicks, form inputs, and navigation in real time, then export them as ready-to-run automation code. `JavaScript`
+A tool that records browser interactions and automatically generates Playwright test scripts. Capture clicks, form inputs, and navigation in real time, then export them as ready-to-run automation [...]
 
 ### 📝 [blog_application](https://github.com/Sandeepkumar13M/blog_application)
 Basic blog application with CRUD operations. `Java`
