@@ -1,7 +1,7 @@
 # Hi there, I'm Sandeep Kumar Reddy 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=QA+Test+Engineer+I+%40+Acuvity;Regression+%7C+Ahutomation+%7C+Infrast[...]" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=QA+Test+Engineer+I+%40+Acuvity;Regression+%7C+Automation+%7C+Infrast[...]" />
 </div>
 
 ---
